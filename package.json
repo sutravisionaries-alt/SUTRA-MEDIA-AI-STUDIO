@@ -9,12 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/genai": "^1.33.0",
+    "@vercel/analytics": "^1.6.1",
+    "framer-motion": "^12.23.26",
+    "lucide-react": "^0.560.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "lucide-react": "^0.560.0",
-    "@google/genai": "^1.33.0",
-    "react-router-dom": "^7.10.1",
-    "framer-motion": "^12.23.26"
+    "react-router-dom": "^7.10.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
